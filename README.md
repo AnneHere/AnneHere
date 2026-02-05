@@ -23,7 +23,6 @@ Hi, I'm Anh (Anne)<br><br>I am an Applied AI/Machine Learning engineer pursuing 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnneHere&theme=catppuccin_mocha&hide_border=false&layout=compact" />
 </p>
 
-
 <h2 align="center">Personal Motto</h2>
 
 <p align="center">
